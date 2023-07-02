@@ -1,7 +1,8 @@
 .destinations {
+  padding: 3rem 8rem 3rem 8rem;
   &--header {
     @include flexing(space-between);
-    margin: 5rem 8rem 2rem 8rem;
+    margin-bottom: 2rem;
     & a {
       text-decoration: none;
       color: $btncolor;

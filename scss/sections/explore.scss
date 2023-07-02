@@ -6,6 +6,7 @@
   }
   &--text {
     margin: 0 3rem;
+    text-align: left;
     & h1 {
       @include myFont("Playfair Display", 2rem, 700);
     }
